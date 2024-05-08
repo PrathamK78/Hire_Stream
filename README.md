@@ -2,6 +2,8 @@
 
 This project is an implementation of React with CRUD operations. As this project is a Front-end implementation I've used local api to run this project backend. So, it will not work in the production build (meaning after it is deployed).
 
+# Usage
+
 ### Install Dependencies
 
 ```bash
